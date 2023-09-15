@@ -102,7 +102,7 @@
    <p align="left">
         <img src="./doc/01_basic/edging.png" alt="edging" width="40%">
    </p>
-   
+
    - Skis are parallel (hip wide)
    - Slightly bent ankles, knees, and hips
    - Advance your uphill ski, hip, arm, and shoulder open to the valley (lean your upper body slightly forward-downard)
@@ -117,6 +117,7 @@
    <p align="left">
         <img src="./doc/01_basic/sliding.png" alt="sliding" width="40%">
    </p>
+   
    - Through controlled flattening of the skis they release the edges and start sliding downhill
 
 ### 3.6 Snowplough Steering:
