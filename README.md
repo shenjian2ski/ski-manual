@@ -12,7 +12,6 @@ The "DB Ski Basic Level Outline" is a comprehensive guide to ski training at the
 
  
 
-Table of Contents
 
 - [Preface](01_basic.md)
   - [Basic Level (The Austrian System)](01_basic.md#1-intro)
@@ -41,9 +40,8 @@ Table of Contents
 
 The "DB Intermediate Level Outline" presents an intermediate-level ski training program within the Austrian System. Targeting individuals comfortable skiing down advanced slopes with parallel skis, the program aims to refine their skills and introduce advanced techniques.
 
-[Intermediate Level Training Outline]
 
-# Table of Contents
+
 
 - [Preface](./02_intermediate.md)
   - [Intermediate Level (The Austrian System)](./02_intermediate.md#intermediate-level-the-austrian-system)
@@ -59,6 +57,8 @@ The "DB Intermediate Level Outline" presents an intermediate-level ski training 
   - [3.1 Parallel Turns (Long Radius)](./02_intermediate.md#31-parallel-turns-long-radius)
   - [3.2 Pole Planting](./02_intermediate.md#32-pole-planting)
   - [3.3 Parallel Turns (Short Radius)](./02_intermediate.md#33-parallel-turns-short-radius)
+  - [3.4 Parallel Turns Dynamic (Long Radius)](./02_intermediate.md#34-parallel-turns-dynamic-long-radius)
+  - [3.5 Parallel Turns Dynamic (Short Radius)](./02_intermediate.md#35-parallel-turns-dynamic-short-radius)
 - [4. Common Mistakes](./02_intermediate.md#4-common-mistakes)
 
 
@@ -70,4 +70,7 @@ The "DB Intermediate Level Outline" presents an intermediate-level ski training 
         <img src="./doc/profile.png" alt="schussing" width="15%">
   </p>
 
-  
+- Terrence
+  <p align="left">
+        <img src="./doc/profile_terence.png" alt="schussing" width="15%">
+  </p>
