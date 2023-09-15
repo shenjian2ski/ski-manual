@@ -102,6 +102,7 @@
    <p align="left">
         <img src="./doc/01_basic/edging.png" alt="edging" width="40%">
    </p>
+   
    - Skis are parallel (hip wide)
    - Slightly bent ankles, knees, and hips
    - Advance your uphill ski, hip, arm, and shoulder open to the valley (lean your upper body slightly forward-downard)
@@ -128,6 +129,7 @@
    <p align="left">
         <img src="./doc/01_basic/snowplough_steering.png" alt="sliding" width="40%">
    </p>
+
    - Start in basic alpine position on a traverse.
    - Simultaneously move upward, forward and stem out the uphill ski into a middle position
    - In the fall line the weight shifts to the outside ski (which then becomes the downhill ski) and matches the inside ski (which then becomes the uphill ski) and get return to ABP.   
@@ -149,6 +151,7 @@
    <p align="left">
         <img src="./doc/01_basic/parallel.png" alt="sliding" width="45%">
    </p>
+
    - Start in basic alpine position on a traverse.
    - Simultaneously move upward, forward, and inward.
    - "__Drift into the fall line__." 
