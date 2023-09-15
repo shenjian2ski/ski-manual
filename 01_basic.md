@@ -58,7 +58,7 @@
 
    ⛷️ **Steps:**
    <div style="display: flex; justify-content: lfet;">
-      <img src="./doc/01_basic/snowplough_01.png" >
+    
       <img src="./doc/01_basic/snowplough_02.png" >
       <img src="./doc/01_basic/snowplough_03.png" >
    </div>
