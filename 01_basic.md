@@ -1,4 +1,4 @@
-# DB SKI TRAINING OUTLINE
+# [DB SKI TRAINING OUTLINE](README.md)
 
 **Basic Level (The Austrian System):** 
 
@@ -47,7 +47,7 @@
    ⛷️ **Steps:**
 
    <p align="left">
-        <img src="./doc/01_basic/01%20schussing.png" alt="schussing" width="20%">
+        <img src="./doc/01_basic/01%20schussing.png"  width="20%">
    </p>
    
    - Explain the __middle position__
@@ -58,9 +58,9 @@
 
    ⛷️ **Steps:**
    <div style="display: flex; justify-content: lfet;">
-      <img src="./doc/01_basic/snowplough_01.png" alt="snowplough_01">
-      <img src="./doc/01_basic/snowplough_02.png" alt="snowplough_02">
-      <img src="./doc/01_basic/snowplough_03.png" alt="snowplough_03">
+      <img src="./doc/01_basic/snowplough_01.png" >
+      <img src="./doc/01_basic/snowplough_02.png" >
+      <img src="./doc/01_basic/snowplough_03.png" >
    </div>
    
    - Start schussing and make a snowplough in the run out
@@ -75,7 +75,7 @@
    ⛷️ **Steps:**
 
    <p align="left">
-        <img src="./doc/01_basic/snowplough_turning.png" alt="schussing" width="40%">
+        <img src="./doc/01_basic/snowplough_turning.png"  width="40%">
    </p>
 
    - Increasing pressure by bending ankles, knees and hips
@@ -93,7 +93,7 @@
     
    ⛷️ **Steps:**
    <p align="left">
-        <img src="./doc/01_basic/edging.png" alt="edging" width="40%">
+        <img src="./doc/01_basic/edging.png"  width="40%">
    </p>
 
    - Skis are parallel (hip wide)
@@ -108,7 +108,7 @@
    
    ⛷️ **Steps:** 
    <p align="left">
-        <img src="./doc/01_basic/sliding.png" alt="sliding" width="40%">
+        <img src="./doc/01_basic/sliding.png"  width="40%">
    </p>
    
    - Through controlled flattening of the skis they release the edges and start sliding downhill
@@ -121,7 +121,7 @@
    
    ⛷️ **Steps:**
    <p align="left">
-        <img src="./doc/01_basic/snowplough_steering.png" alt="sliding" width="40%">
+        <img src="./doc/01_basic/snowplough_steering.png"  width="40%">
    </p>
 
    - Start in basic alpine position on a traverse.
@@ -143,7 +143,7 @@
 
    ⛷️ **Steps:**
    <p align="left">
-        <img src="./doc/01_basic/parallel.png" alt="sliding" width="45%">
+        <img src="./doc/01_basic/parallel.png"  width="45%">
    </p>
 
    - Start in basic alpine position on a traverse.
@@ -159,12 +159,12 @@
 
    - 🚫 Back seat skiing
    <p align="left">
-        <img src="./doc/01_basic/error_back_seat.png" alt="sliding" width="25%">
+        <img src="./doc/01_basic/error_back_seat.png"  width="25%">
    </p>
 
    - 🔄 Rotation
    <p align="left">
-        <img src="./doc/01_basic/rotation.png" alt="sliding" width="25%">
+        <img src="./doc/01_basic/rotation.png"  width="25%">
    </p>
 
    - ❌ X-legs

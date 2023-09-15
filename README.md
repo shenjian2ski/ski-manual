@@ -6,7 +6,7 @@
 Welcome to an exciting ski lesson! Whether you're a beginner or looking to improve your skills, we're here to guide you through the snow. Our experienced instructors will focus on safety, technique, and the joy of skiing. Let's gear up and hit the slopes for an unforgettable adventure!
 
 
-## DB Basic Level
+## [DB Basic Level](01_basic.md)
 
 The "DB Ski Basic Level Outline" is a comprehensive guide to ski training at the basic level, following the Austrian skiing system. This program is designed for individuals with little to no skiing experience but who have an interest in learning. The training objectives include mastering various skiing techniques, safety awareness, and equipment setup. The outline is divided into several sections:
 
@@ -36,7 +36,7 @@ The "DB Ski Basic Level Outline" is a comprehensive guide to ski training at the
 
 
 
-## DB Intermediate Level
+## [DB Intermediate Level](02_intermediate.md)
 
 The "DB Intermediate Level Outline" presents an intermediate-level ski training program within the Austrian System. Targeting individuals comfortable skiing down advanced slopes with parallel skis, the program aims to refine their skills and introduce advanced techniques.
 
@@ -67,10 +67,10 @@ The "DB Intermediate Level Outline" presents an intermediate-level ski training 
 
 - Jian 
   <p align="left">
-        <img src="./doc/profile.png" alt="schussing" width="15%">
+        <img src="./doc/profile.png" width="15%">
   </p>
 
 - Terrence
   <p align="left">
-        <img src="./doc/profile_terence.png" alt="schussing" width="15%">
+        <img src="./doc/profile_terence.png" width="15%">
   </p>
