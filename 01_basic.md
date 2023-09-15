@@ -57,19 +57,12 @@
    🎯 Gliding and braking
 
    ⛷️ **Steps:**
-    <table>
-    <tr>
-        <td align="center">
-        <img src="./doc/01_basic/snowplough_01.png" alt="snowplough_01">
-        </td>
-        <td align="center">
-        <img src="./doc/01_basic/snowplough_02.png" alt="snowplough_02">
-        </td>
-        <td align="center">
-        <img src="./doc/01_basic/snowplough_03.png" alt="snowplough_03">
-        </td>
-    </tr>
-    </table>
+   <div style="display: flex; justify-content: lfet;">
+      <img src="./doc/01_basic/snowplough_01.png" alt="snowplough_01">
+      <img src="./doc/01_basic/snowplough_02.png" alt="snowplough_02">
+      <img src="./doc/01_basic/snowplough_03.png" alt="snowplough_03">
+   </div>
+   
    - Start schussing and make a snowplough in the run out
    - Switch between parallel and snowplough
    - Brake in snowplough
